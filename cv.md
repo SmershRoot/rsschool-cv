@@ -89,7 +89,7 @@ ___
 ```
 1. RS School JavaScript/Front-end (Studying now)
    
-Course program: https://community-z.com/events/js-intro-rss-2021q3
+Course program: https://wearecommunity.io/events/js-intro-rss-2021q3
 
 2. Multi-module Maven, multithreading (Studying now)
 
