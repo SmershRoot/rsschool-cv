@@ -85,6 +85,13 @@ SibNac
 ___
 ## Education
 ```code
+2022 Year
+```
+1. Spring Boot 2.x + HATEOAS
+
+Course program: https://javaops.ru/view/bootjava
+
+
 2021 Year
 ```
 1. RS School JavaScript/Front-end (Studying now)
